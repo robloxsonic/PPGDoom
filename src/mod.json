@@ -1,0 +1,18 @@
+{
+  "Name": "Doom weapons pack",
+  "Author": "BBQGiraffe",
+  "Description": "adds Doom weapons to People Playground",
+  "ModVersion": "3.0",
+  "GameVersion": "1.8.x",
+  "ThumbnailPath": "modicon.png",
+  "EntryPoint": "DoomWeapons.DoomWeapons",
+  "Tags": [],
+  "Scripts": [
+    "BFGProjectile.cs",
+    "BFG900Behaviour.cs",
+    "DoomWeapons.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2137895715"
+}
